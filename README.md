@@ -1,2 +1,3 @@
 # wine-quality-prediction
 wine quality prediction | ML model 
+"Wine Quality Prediction" is a machine learning project focused on employing advanced algorithms to analyze various features of wines and predict their overall quality. By leveraging data such as chemical composition, acidity, and other relevant attributes, the project aims to develop a model that can accurately assess and categorize wines into different quality classes. This application has the potential to assist wine enthusiasts, producers, and connoisseurs in making informed decisions based on data-driven predictions about the quality of wines.
